@@ -1,10 +1,10 @@
-Name: Tarun Abraham
-Status: Submitted
-ProjectTitle: EpilEducate
-Technologies: SwiftUI, SpriteKit, UIKit
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://www.linkedin.com/in/tarun-jacob-abraham
-SourceUrl: https://github.com/Cookiesgobrr/EpilEducate
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---

@@ -15,6 +15,6 @@ If you would like to update your submission status please find your file in `Sub
 
 | Name | Source |    Video    | Technologies | Status |
 |-----:|:------:|:-----------:|:-------------|:------:|
+|[Tarun Abraham](https://www.linkedin.com/in/tarun-jacob-abraham)|[GitHub](https://github.com/Cookiesgobrr/EpilEducate)|-|SwiftUI, SpriteKit, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-
-##### Total: 0 | Awarded: 0
+##### Total: 1 | Awarded: 0
