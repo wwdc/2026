@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Max Hillyer
+Status: Submitted
+ProjectTitle: Swipes
+Technologies: SwiftUI, CoreLocation
 
 AboutMeUrl:
-SourceUrl:
+SourceUrl: https://github.com/Max-Hillyer/swipes
 VideoUrl:
 
 <!---
