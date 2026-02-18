@@ -15,6 +15,7 @@ If you would like to update your submission status please find your file in `Sub
 
 | Name | Source |    Video    | Technologies | Status |
 |-----:|:------:|:-----------:|:-------------|:------:|
+|Max Hillyer|[GitHub](https://github.com/Max-Hillyer/swipes)|-|SwiftUI, CoreLocation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Tarun Abraham](https://www.linkedin.com/in/tarun-jacob-abraham)|[GitHub](https://github.com/Cookiesgobrr/EpilEducate)|-|SwiftUI, SpriteKit, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 1 | Awarded: 0
+##### Total: 2 | Awarded: 0
