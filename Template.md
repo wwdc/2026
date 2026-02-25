@@ -1,11 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Immani Rama Venkata Sri Sai
+Status: Submitted
+ProjectTitle: GentleStep
+Technologies: SwiftUI
 
-AboutMeUrl:
-SourceUrl:
-VideoUrl:
+AboutMeUrl: https://www.linkedin.com/in/sai-immani
+SourceUrl: https://github.com/saiimmani/GentleStep.git
 
 <!---
 EXAMPLE
