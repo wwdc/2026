@@ -8,6 +8,9 @@ List of student submissions for the WWDC 2026 - Swift Student Challenge.
 2. Fill out the document based on the example in the comment below.
 3. Make a new Pull Request and wait for the review.
 
+#### YouTube Playlist
+[Click here](https://youtube.com/playlist?list=PL0GynU2GmYtTILlm8jBOn8KhasHyGQT8u&si=1OOsR4_xZsXgUc9f) to view the updated YouTube playlist.
+
 #### How to update your submission?
 If you would like to update your submission status please find your file in `Submission` directory. Edit file, update status and create Pull Request.
 
