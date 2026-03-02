@@ -17,6 +17,7 @@ If you would like to update your submission status please find your file in `Sub
 |-----:|:------:|:-----------:|:-------------|:------:|
 |[Manpreet Singh](https://www.linkedin.com/in/manpreet-swe/)|[GitHub](https://github.com/Manpreet-Singh-Kamboj/swift-student-challenge-2026)|-|SwiftUI, SceneKit, UIKit, Combine|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |Max Hillyer|[GitHub](https://github.com/Max-Hillyer/swipes)|-|SwiftUI, CoreLocation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Saatvik Shashank Shrivastava](https://www.linkedin.com/in/saatvikss)|[GitHub](https://github.com/SaatvikSS/Tattva)|-|SwfitUI, Foundation, SwiftData, Haptics|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Tarun Abraham](https://www.linkedin.com/in/tarun-jacob-abraham)|[GitHub](https://github.com/Cookiesgobrr/EpilEducate)|-|SwiftUI, SpriteKit, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 3 | Awarded: 0
+##### Total: 4 | Awarded: 0

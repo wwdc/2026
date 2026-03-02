@@ -1,10 +1,10 @@
-Name: Saatvik Shashank Shrivastava
-Status: Submitted
-ProjectTitle: Tattva
-Technologies: SwfitUI, Foundation, SwiftData, Haptics
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://www.linkedin.com/in/saatvikss
-SourceUrl: https://github.com/SaatvikSS/Tattva
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
