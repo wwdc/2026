@@ -1,11 +1,11 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Myung-Joon Kang
+Status: Submitted
+ProjectTitle: Duet
+Technologies: SwiftUI, Foundation Models Framework
 
-AboutMeUrl:
+AboutMeUrl: https://myungjoon.com/hello
 SourceUrl:
-VideoUrl:
+VideoUrl: https://myungjoon.com/duet
 
 <!---
 EXAMPLE
