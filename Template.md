@@ -1,10 +1,10 @@
-Name: Mustafa TAVASLI
-Status: Submitted
-ProjectTitle: Golden Flaws
-Technologies: SwiftUI, PencilKit, AVFoundation, SwiftCharts
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://linkedin.com/in/mustafatavasli
-SourceUrl: https://github.com/devmustafatavasli/SSC26-GoldenFlaws
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
