@@ -15,6 +15,7 @@ If you would like to update your submission status please find your file in `Sub
 
 | Name | Source |    Video    | Technologies | Status |
 |-----:|:------:|:-----------:|:-------------|:------:|
+|[Alessio Nossa](https://www.linkedin.com/in/alessionossa/)|[GitHub](https://github.com/alessionossa/opening-set)|[YouTube](https://youtu.be/EoO06qCLbIc)|SwiftUI, Metal|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Dhruv Goswami](https://www.linkedin.com/in/Dhruv-Goswami-24-/)|[GitHub](https://github.com/DhruvGoswami10/SimPredict.git)|[YouTube](https://youtu.be/UkDhJrI0SS0)|SwiftUI, TipKit, CoreGraphics, All Algorithms implemented from scratch|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Manpreet Singh](https://www.linkedin.com/in/manpreet-swe/)|[GitHub](https://github.com/Manpreet-Singh-Kamboj/swift-student-challenge-2026)|-|SwiftUI, SceneKit, UIKit, Combine|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |Max Hillyer|[GitHub](https://github.com/Max-Hillyer/swipes)|-|SwiftUI, CoreLocation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -27,4 +28,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Tadashi Kumazawa](https://www.linkedin.com/in/tadashi-kumazawa-0a368421b/)|-|[YouTube](https://youtube.com/shorts/Z5PK819FaUw?feature=share)|SwiftUI, AVFoundation, Vision, CoreGraphics|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Tarun Abraham](https://www.linkedin.com/in/tarun-jacob-abraham)|[GitHub](https://github.com/Cookiesgobrr/EpilEducate)|-|SwiftUI, SpriteKit, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 11 | Awarded: 0
+##### Total: 12 | Awarded: 0
