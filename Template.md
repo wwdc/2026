@@ -1,11 +1,11 @@
-Name: Tadashi Kumazawa
-Status: Submitted 
-ProjectTitle: SignBeat
-Technologies: SwiftUI, AVFoundation, Vision, CoreGraphics
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://www.linkedin.com/in/tadashi-kumazawa-0a368421b/
+AboutMeUrl:
 SourceUrl:
-VideoUrl: https://youtube.com/shorts/Z5PK819FaUw?feature=share
+VideoUrl:
 
 <!---
 EXAMPLE
