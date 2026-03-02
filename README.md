@@ -3,6 +3,8 @@
 
 List of student submissions for the WWDC 2026 - Swift Student Challenge.
 
+Check out the [YouTube Playlist](https://youtube.com/playlist?list=PL0GynU2GmYtTILlm8jBOn8KhasHyGQT8u&si=1OOsR4_xZsXgUc9f) to watch the projects.
+
 ### How to add your submission?
 1. [Click here](https://github.com/wwdc/2026/edit/main/Template.md) to fork this repository and edit the `Template.md` file.
 2. Fill out the document based on the example in the comment below.
