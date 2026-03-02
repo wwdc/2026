@@ -1,10 +1,10 @@
-Name: Pattawee Sittirit
-Status: Submitted
-ProjectTitle: Liquid Logic
-Technologies: SpriteKit, SceneKit, CoreMotion, AVFoundation
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
 AboutMeUrl:
-SourceUrl: https://github.com/pzczp/liquidlogic
+SourceUrl:
 VideoUrl:
 
 <!---
