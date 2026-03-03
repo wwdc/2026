@@ -29,8 +29,9 @@ If you would like to update your submission status please find your file in `Sub
 |Pattawee Sittirit|[GitHub](https://github.com/pzczp/liquidlogic)|-|SpriteKit, SceneKit, CoreMotion, AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Ralph Clavens Love Noel](https://rnoel.dev/)|[GitHub](https://github.com/GridGxly/TransferTrack)|-|SwiftUI, CoreML, VisionKit, MapKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Rehan Sanadi](https://www.linkedin.com/in/rehan-sanadi-559151366/)|[GitHub](https://github.com/Rehan0707/Solace)|[YouTube](https://youtu.be/E-scL0CIK-M?si=1XTwYKhQgw-jG4V6)|SwiftUI, AVFoundation, UIKit, Combine|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Riju Ishiwatari](https://www.linkedin.com/in/riju-ishiwatari-903852367)|[GitHub](https://github.com/acrostorn/AirCraft)|[YouTube](https://www.youtube.com/watch?v=8kHkH2OmEe8)|SwiftUI, SceneKit, Foundation Models, PDFKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Saatvik Shashank Shrivastava](https://www.linkedin.com/in/saatvikss)|[GitHub](https://github.com/SaatvikSS/Tattva)|-|SwfitUI, Foundation, SwiftData, Haptics|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Tadashi Kumazawa](https://www.linkedin.com/in/tadashi-kumazawa-0a368421b/)|-|[YouTube](https://youtube.com/shorts/Z5PK819FaUw?feature=share)|SwiftUI, AVFoundation, Vision, CoreGraphics|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Tarun Abraham](https://www.linkedin.com/in/tarun-jacob-abraham)|[GitHub](https://github.com/Cookiesgobrr/EpilEducate)|-|SwiftUI, SpriteKit, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 15 | Awarded: 0
+##### Total: 16 | Awarded: 0
