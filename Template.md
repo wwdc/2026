@@ -1,11 +1,11 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Jack Miller
+Status: Submitted
+ProjectTitle: Canopy
+Technologies: Foundation Models, SwiftUI, PencilKit
 
-AboutMeUrl:
-SourceUrl:
-VideoUrl:
+AboutMeUrl: https://jackmiller.dev/
+SourceUrl: https://github.com/millerswiftdev/Canopy
+VideoUrl: https://jackmiller.dev/apps/canopy
 
 <!---
 EXAMPLE
