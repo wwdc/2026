@@ -1,11 +1,11 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Ansh Mani Tripathi
+Status: Submitted
+ProjectTitle: Meter Logger
+Technologies: SwiftUI, Foundation
 
-AboutMeUrl:
-SourceUrl:
-VideoUrl:
+AboutMeUrl: https://portfolio.shadyggs.xyz
+SourceUrl: https://github.com/anshggss/Meter-Logger
+VideoUrl: 
 
 <!---
 EXAMPLE
