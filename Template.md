@@ -1,11 +1,11 @@
-Name: Youssef Ashraf
-Status: Submitted
-ProjectTitle: Lingua Motus
-Technologies: AVFoundation, Core ML, Vision, SWiftUI
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://youssef-ashraf.lovable.app/
-SourceUrl: https://github.com/yousseeefashrraf/LinguaMotus
-VideoUrl: https://youtu.be/v4X_P9Uf6RU
+AboutMeUrl:
+SourceUrl:
+VideoUrl:
 
 <!---
 EXAMPLE
