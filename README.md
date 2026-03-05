@@ -17,6 +17,7 @@ If you would like to update your submission status please find your file in `Sub
 
 | Name | Source |    Video    | Technologies | Status |
 |-----:|:------:|:-----------:|:-------------|:------:|
+|[Adriel de Souza](https://dsadriel.github.io/portfolio/)|[GitHub](https://github.com/dsadriel/WildSet.swiftpm)|-|SwiftUI, Drag and Drop API, AV Foundation, VoiceOver|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Alessio Nossa](https://www.linkedin.com/in/alessionossa/)|[GitHub](https://github.com/alessionossa/opening-set)|[YouTube](https://youtu.be/EoO06qCLbIc)|SwiftUI, Metal|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Ansh Mani Tripathi](https://portfolio.shadyggs.xyz)|[GitHub](https://github.com/anshggss/Meter-Logger)|-|SwiftUI, Foundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Asser Osama](https://www.linkedin.com/in/asserusama/)|-|[YouTube](https://youtu.be/_2VdMFefyyU?si=PKUoGHFqSlFBGOAT)|Foundation Models, Speech, Charts, SwiftData|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -39,4 +40,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Youssef Ashraf](https://youssef-ashraf.lovable.app/)|[GitHub](https://github.com/yousseeefashrraf/LinguaMotus)|[YouTube](https://youtu.be/v4X_P9Uf6RU)|AVFoundation, Core ML, Vision, SWiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |loveucifer|-|[YouTube](https://youtu.be/JUi4ATgFyyk)|SwiftUI, SceneKit, AVFoundation, UIKit|![Unknown](https://img.shields.io/badge/unknown-grey?style=for-the-badge)|
 
-##### Total: 21 | Awarded: 0
+##### Total: 22 | Awarded: 0
