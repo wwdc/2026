@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Adriel de Souza
+Status: Submitted
+ProjectTitle: WildSet
+Technologies: SwiftUI, Drag and Drop API, AV Foundation, VoiceOver, QuickLook, Swift Concurrency
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://dsadriel.github.io/portfolio/
+SourceUrl: https://github.com/dsadriel/WildSet.swiftpm
 VideoUrl:
 
 <!---
