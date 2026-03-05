@@ -39,6 +39,6 @@ If you would like to update your submission status please find your file in `Sub
 |[Tadashi Kumazawa](https://www.linkedin.com/in/tadashi-kumazawa-0a368421b/)|-|[YouTube](https://youtube.com/shorts/Z5PK819FaUw?feature=share)|SwiftUI, AVFoundation, Vision, CoreGraphics|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Tarun Abraham](https://www.linkedin.com/in/tarun-jacob-abraham)|[GitHub](https://github.com/Cookiesgobrr/EpilEducate)|-|SwiftUI, SpriteKit, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Youssef Ashraf](https://youssef-ashraf.lovable.app/)|[GitHub](https://github.com/yousseeefashrraf/LinguaMotus)|[YouTube](https://youtu.be/v4X_P9Uf6RU)|AVFoundation, Core ML, Vision, SWiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|loveucifer|-|[YouTube](https://youtu.be/JUi4ATgFyyk)|SwiftUI, SceneKit, AVFoundation, UIKit|![Unknown](https://img.shields.io/badge/unknown-grey?style=for-the-badge)|
+|loveucifer|-|[YouTube](https://youtu.be/JUi4ATgFyyk)|SwiftUI, SceneKit, AVFoundation, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
 ##### Total: 23 | Awarded: 0
