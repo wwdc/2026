@@ -1,5 +1,5 @@
 Name: loveucifer
-Status: 
+Status: Submitted
 ProjectTitle: Faraday 
 Technologies: SwiftUI, SceneKit, AVFoundation, UIKit
 
