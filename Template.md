@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Yedil Pauyedin
+Status: Submitted
+ProjectTitle: Nook
+Technologies: UIKit, AVFoundation, SwiftUI, Foundation Models
 
 AboutMeUrl:
-SourceUrl:
+SourceUrl: https://github.com/Ping-2o/2026
 VideoUrl:
 
 <!---
