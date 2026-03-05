@@ -1,11 +1,11 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: loveucifer
+Status: 
+ProjectTitle: Faraday 
+Technologies: SwiftUI, SceneKit, AVFoundation, UIKit
 
-AboutMeUrl:
+AboutMeUrl: www.github.com/loveucifer
 SourceUrl:
-VideoUrl:
+VideoUrl:https://youtu.be/JUi4ATgFyyk
 
 <!---
 EXAMPLE
