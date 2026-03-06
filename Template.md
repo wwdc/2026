@@ -1,10 +1,10 @@
-Name: Alessio Rubicini
-Status: Submitted
-ProjectTitle: Ember
-Technologies: SwiftUI, Foundation Models, CoreHaptics, TipKit
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://alessiorubicini.github.io
-SourceUrl: https://github.com/alessiorubicini/Ember
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
