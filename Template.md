@@ -1,10 +1,10 @@
-Name: Bryan Zhang
-Status: Submitted
-ProjectTitle: ThreatPulse
-Technologies:SwiftUI,AVFoundation, Liquid Glass UI
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: www.linkedin.com/in/bryanzdy
-SourceUrl: https://github.com/cyberbryanzhang/ThreatPulse
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
