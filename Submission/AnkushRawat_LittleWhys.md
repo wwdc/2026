@@ -5,7 +5,7 @@ Technologies: SwiftUI, CoreHaptics, AVFoundation, Swift
 
 AboutMeUrl: https://www.linkedin.com/in/ankus4rawat/
 SourceUrl: https://github.com/savetree-1/little-whys-swift
-VideoUrl:
+VideoUrl: https://github.com/user-attachments/assets/bf18ea47-abbf-42db-a409-771dc754c0e3
 
 <!---
 EXAMPLE
