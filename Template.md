@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Ataberk Turan
+Status: Submitted
+ProjectTitle: Mental Echoes
+Technologies: SwiftUI, Foundation Models
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://ataberkturan.com
+SourceUrl: https://github.com/ataberkturan/MentalEchoes
 VideoUrl:
 
 <!---
