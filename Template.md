@@ -1,10 +1,10 @@
-Name: Roman Zhuzhgov
-Status: Submitted
-ProjectTitle: Orpheus
-Technologies: Metal, CoreAudio
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://t.me/mi11ione
-SourceUrl: https://github.com/mi11ione/OrpheusSSC
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
