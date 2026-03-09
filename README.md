@@ -29,6 +29,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Dhruv Goswami](https://www.linkedin.com/in/Dhruv-Goswami-24-/)|[GitHub](https://github.com/DhruvGoswami10/SimPredict.git)|[YouTube](https://youtu.be/UkDhJrI0SS0)|SwiftUI, TipKit, CoreGraphics, All Algorithms implemented from scratch|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Jack Miller](https://jackmiller.dev/)|[GitHub](https://github.com/millerswiftdev/Canopy)|[Video](https://jackmiller.dev/apps/canopy)|Foundation Models, SwiftUI, PencilKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Katelyn Hua](https://www.linkedin.com/in/katelyn-h-3198aa153/)|[GitHub](https://github.com/RUN-CMC49/ActivTimer/tree/main?tab=readme-ov-file)|[Video](https://www.linkedin.com/posts/katelyn-h-3198aa153_swiftstudentchallenge-swiftui-appledevelopment-activity-7434488331259895808-MWTC?utm_source=share&utm_medium=member_desktop&rcm=ACoAACT5P0UBqLhVav77auZrezOc-LaaUGi-XWE)|SwiftUI, AVFoundation, CoreHaptics, SwiftData|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Mahmoud Ait Ouaret](https://www.linkedin.com/in/mahmoud-ait-ouaret/)|-|[YouTube](https://youtu.be/jUqkdr4UWrc?si=0_y66v-I8Rn4p6Wk)|SwiftUI, Swift, MapKit, CoreHaptics|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Manpreet Singh](https://www.linkedin.com/in/manpreet-swe/)|[GitHub](https://github.com/Manpreet-Singh-Kamboj/swift-student-challenge-2026)|-|SwiftUI, SceneKit, UIKit, Combine|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |Max Hillyer|[GitHub](https://github.com/Max-Hillyer/swipes)|-|SwiftUI, CoreLocation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Morris Richman](https://x.com/morrisinlife)|[GitHub](https://github.com/Mcrich23/Teddy)|-|AVFoundation, Speech, FoundationModels|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -45,4 +46,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Youssef Ashraf](https://youssef-ashraf.lovable.app/)|[GitHub](https://github.com/yousseeefashrraf/LinguaMotus)|[YouTube](https://youtu.be/v4X_P9Uf6RU)|AVFoundation, Core ML, Vision, SWiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |loveucifer|-|[YouTube](https://youtu.be/JUi4ATgFyyk)|SwiftUI, SceneKit, AVFoundation, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 27 | Awarded: 0
+##### Total: 28 | Awarded: 0
