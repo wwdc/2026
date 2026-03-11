@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Arpit Garg
+Status: Submitted
+ProjectTitle: PulseBit
+Technologies: SwiftUI, Foundation Models, HealthKit, Speech
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: www.linkedin.com/in/arpit-garg-cs
+SourceUrl: https://github.com/ArpitCS/Pulse-SSC-26
 VideoUrl:
 
 <!---
