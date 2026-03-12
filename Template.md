@@ -1,11 +1,11 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Caio Agra Lemos
+Status: Submitted
+ProjectTitle: Project Home
+Technologies: Vision, Speech, CoreML, AVFoundation
 
-AboutMeUrl:
+AboutMeUrl: https://caioagralemos.com
 SourceUrl:
-VideoUrl:
+VideoUrl: https://bit.ly/watchprojecthome
 
 <!---
 EXAMPLE
