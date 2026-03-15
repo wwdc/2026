@@ -26,6 +26,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Asser Osama](https://www.linkedin.com/in/asserusama/)|-|[YouTube](https://youtu.be/_2VdMFefyyU?si=PKUoGHFqSlFBGOAT)|Foundation Models, Speech, Charts, SwiftData|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Ataberk Turan](https://ataberkturan.com)|[GitHub](https://github.com/ataberkturan/MentalEchoes)|-|SwiftUI, Foundation Models|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |Bryan Zhang|[GitHub](https://github.com/cyberbryanzhang/ThreatPulse)|-|SwiftUI,AVFoundation, Liquid Glass UI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Caio Agra Lemos](https://caioagralemos.com)|-|[Video](https://bit.ly/watchprojecthome)|Vision, Speech, CoreML, AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Chawabhon Netisingha (Jnx03)](https://jnx03.xyz)|[GitHub](https://github.com/JNX03/Neuralia/)|[YouTube](https://www.youtube.com/watch?v=EtrBb8nzsfI)|SwiftUI , Foundation , AVKit , AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Debasish Tripathy](https://github.com/Debasish7ripathy/)|-|[YouTube](https://youtu.be/7nahD7Mno7k)|SwiftUI, Charts, Combine, MVVM|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Dhruv Goswami](https://www.linkedin.com/in/Dhruv-Goswami-24-/)|[GitHub](https://github.com/DhruvGoswami10/SimPredict.git)|[YouTube](https://youtu.be/UkDhJrI0SS0)|SwiftUI, TipKit, CoreGraphics, All Algorithms implemented from scratch|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -51,4 +52,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Zineb Aourid](https://www.linkedin.com/in/zineb-aourid-6238021b6/)|[GitHub](https://github.com/zaourid1/MindBloom)|-|SwiftUI, Canvas API, CoreML|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |loveucifer|-|[YouTube](https://youtu.be/JUi4ATgFyyk)|SwiftUI, SceneKit, AVFoundation, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 33 | Awarded: 0
+##### Total: 34 | Awarded: 0
