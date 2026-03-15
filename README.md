@@ -44,8 +44,9 @@ If you would like to update your submission status please find your file in `Sub
 |[Saatvik Shashank Shrivastava](https://www.linkedin.com/in/saatvikss)|[GitHub](https://github.com/SaatvikSS/Tattva)|-|SwfitUI, Foundation, SwiftData, Haptics|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Tadashi Kumazawa](https://www.linkedin.com/in/tadashi-kumazawa-0a368421b/)|-|[YouTube](https://youtube.com/shorts/Z5PK819FaUw?feature=share)|SwiftUI, AVFoundation, Vision, CoreGraphics|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Tarun Abraham](https://www.linkedin.com/in/tarun-jacob-abraham)|[GitHub](https://github.com/Cookiesgobrr/EpilEducate)|-|SwiftUI, SpriteKit, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Umar Salim](https://www.linkedin.com/in/umarsxlim/)|[GitHub](https://github.com/umarsxlim/Momentum---Apple-Swift-Student-Challenge-2026)|-|SwiftUI, SpriteKit, AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Yedil Pauyedin](https://www.instagram.com/ping._20)|[GitHub](https://github.com/Ping-2o/Nook)|-|UIKit, AVFoundation, SwiftUI, Foundation Models|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Youssef Ashraf](https://youssef-ashraf.lovable.app/)|[GitHub](https://github.com/yousseeefashrraf/LinguaMotus)|[YouTube](https://youtu.be/v4X_P9Uf6RU)|AVFoundation, Core ML, Vision, SWiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |loveucifer|-|[YouTube](https://youtu.be/JUi4ATgFyyk)|SwiftUI, SceneKit, AVFoundation, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 30 | Awarded: 0
+##### Total: 31 | Awarded: 0
