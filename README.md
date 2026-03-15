@@ -47,6 +47,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Umar Salim](https://www.linkedin.com/in/umarsxlim/)|[GitHub](https://github.com/umarsxlim/Momentum---Apple-Swift-Student-Challenge-2026)|-|SwiftUI, SpriteKit, AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Yedil Pauyedin](https://www.instagram.com/ping._20)|[GitHub](https://github.com/Ping-2o/Nook)|-|UIKit, AVFoundation, SwiftUI, Foundation Models|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Youssef Ashraf](https://youssef-ashraf.lovable.app/)|[GitHub](https://github.com/yousseeefashrraf/LinguaMotus)|[YouTube](https://youtu.be/v4X_P9Uf6RU)|AVFoundation, Core ML, Vision, SWiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Zineb Aourid](https://www.linkedin.com/in/zineb-aourid-6238021b6/)|[GitHub](https://github.com/zaourid1/MindBloom)|-|SwiftUI, Canvas API, CoreML|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |loveucifer|-|[YouTube](https://youtu.be/JUi4ATgFyyk)|SwiftUI, SceneKit, AVFoundation, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 31 | Awarded: 0
+##### Total: 32 | Awarded: 0
