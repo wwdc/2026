@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Erkhemtur
+Status: Submitted
+ProjectTitle: Shagai
+Technologies: SwiftUI, Vision, RealityKit, AVFoundation, AVSpeechSynthesizer, PDFKit
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://www.linkedin.com/in/roaziy/
+SourceUrl: https://github.com/roaziy/Shagai
 VideoUrl:
 
 <!---
