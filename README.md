@@ -30,6 +30,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Chawabhon Netisingha (Jnx03)](https://jnx03.xyz)|[GitHub](https://github.com/JNX03/Neuralia/)|[YouTube](https://www.youtube.com/watch?v=EtrBb8nzsfI)|SwiftUI , Foundation , AVKit , AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Debasish Tripathy](https://github.com/Debasish7ripathy/)|-|[YouTube](https://youtu.be/7nahD7Mno7k)|SwiftUI, Charts, Combine, MVVM|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Dhruv Goswami](https://www.linkedin.com/in/Dhruv-Goswami-24-/)|[GitHub](https://github.com/DhruvGoswami10/SimPredict.git)|[YouTube](https://youtu.be/UkDhJrI0SS0)|SwiftUI, TipKit, CoreGraphics, All Algorithms implemented from scratch|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Erkhemtur](https://www.linkedin.com/in/roaziy/)|[GitHub](https://github.com/roaziy/Shagai)|-|SwiftUI, Vision, RealityKit, AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Jack Miller](https://jackmiller.dev/)|[GitHub](https://github.com/millerswiftdev/Canopy)|[Video](https://jackmiller.dev/apps/canopy)|Foundation Models, SwiftUI, PencilKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Katelyn Hua](https://www.linkedin.com/in/katelyn-h-3198aa153/)|[GitHub](https://github.com/RUN-CMC49/ActivTimer/tree/main?tab=readme-ov-file)|[Video](https://www.linkedin.com/posts/katelyn-h-3198aa153_swiftstudentchallenge-swiftui-appledevelopment-activity-7434488331259895808-MWTC?utm_source=share&utm_medium=member_desktop&rcm=ACoAACT5P0UBqLhVav77auZrezOc-LaaUGi-XWE)|SwiftUI, AVFoundation, CoreHaptics, SwiftData|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Mahmoud Ait Ouaret](https://www.linkedin.com/in/mahmoud-ait-ouaret/)|-|[YouTube](https://youtu.be/jUqkdr4UWrc?si=0_y66v-I8Rn4p6Wk)|SwiftUI, Swift, MapKit, CoreHaptics|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -52,4 +53,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Zineb Aourid](https://www.linkedin.com/in/zineb-aourid-6238021b6/)|[GitHub](https://github.com/zaourid1/MindBloom)|-|SwiftUI, Canvas API, CoreML|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |loveucifer|-|[YouTube](https://youtu.be/JUi4ATgFyyk)|SwiftUI, SceneKit, AVFoundation, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 34 | Awarded: 0
+##### Total: 35 | Awarded: 0
