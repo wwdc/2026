@@ -17,6 +17,7 @@ If you would like to update your submission status please find your file in `Sub
 
 | Name | Source |    Video    | Technologies | Status |
 |-----:|:------:|:-----------:|:-------------|:------:|
+|[Aashin C Anil](https://www.linkedin.com/in/aashin-c-anil/)|[GitHub](https://github.com/Aashin20/IsItBroken)|-|SwiftUI, RealityKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Adriel de Souza](https://dsadriel.github.io/portfolio/)|[GitHub](https://github.com/dsadriel/WildSet.swiftpm)|-|SwiftUI, Drag and Drop API, AV Foundation, VoiceOver|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Alessio Nossa](https://www.linkedin.com/in/alessionossa/)|[GitHub](https://github.com/alessionossa/opening-set)|[YouTube](https://youtu.be/EoO06qCLbIc)|SwiftUI, Metal|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Alessio Rubicini](https://alessiorubicini.github.io)|[GitHub](https://github.com/alessiorubicini/Ember)|-|SwiftUI, Foundation Models, CoreHaptics, TipKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -53,4 +54,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Zineb Aourid](https://www.linkedin.com/in/zineb-aourid-6238021b6/)|[GitHub](https://github.com/zaourid1/MindBloom)|-|SwiftUI, Canvas API, CoreML|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |loveucifer|-|[YouTube](https://youtu.be/JUi4ATgFyyk)|SwiftUI, SceneKit, AVFoundation, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 35 | Awarded: 0
+##### Total: 36 | Awarded: 0
