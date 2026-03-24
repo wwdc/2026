@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Asia Ciafardini
+Status: Submitted
+ProjectTitle: Flux
+Technologies: SwiftUI, SwiftData, FoundationModels, Metal
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://github.com/splattydoesstuff
+SourceUrl: https://github.com/splattydoesstuff/flux
 VideoUrl:
 
 <!---
