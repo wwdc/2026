@@ -21,6 +21,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Adriel de Souza](https://dsadriel.github.io/portfolio/)|[GitHub](https://github.com/dsadriel/WildSet.swiftpm)|-|SwiftUI, Drag and Drop API, AV Foundation, VoiceOver|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Alessio Nossa](https://www.linkedin.com/in/alessionossa/)|[GitHub](https://github.com/alessionossa/opening-set)|[YouTube](https://youtu.be/EoO06qCLbIc)|SwiftUI, Metal|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Alessio Rubicini](https://alessiorubicini.github.io)|[GitHub](https://github.com/alessiorubicini/Ember)|-|SwiftUI, Foundation Models, CoreHaptics, TipKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Ali Ünal UZUNÇAYIR](https://www.linkedin.com/in/ali-unal-uzuncayir-a04546298/)|[GitHub](https://github.com/alyboii/Swift-Student-Challenge-2026-Submission-)|-|SwiftUI, SpriteKit, Foundation Models, SwiftData|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Ankush Rawat](https://www.linkedin.com/in/ankus4rawat/)|[GitHub](https://github.com/savetree-1/little-whys-swift)|[Video](https://drive.google.com/file/d/1V86qTu7tzqHuYTPEje3kFVgaiocR8IN6/view?usp=sharing)|SwiftUI, CoreHaptics, AVFoundation, Swift|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Ansh Mani Tripathi](https://portfolio.shadyggs.xyz)|[GitHub](https://github.com/anshggss/Meter-Logger)|-|SwiftUI, Foundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |Arpit Garg|[GitHub](https://github.com/ArpitCS/Pulse-SSC-26)|-|SwiftUI, Foundation Models, HealthKit, Speech|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -54,4 +55,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Zineb Aourid](https://www.linkedin.com/in/zineb-aourid-6238021b6/)|[GitHub](https://github.com/zaourid1/MindBloom)|-|SwiftUI, Canvas API, CoreML|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |loveucifer|-|[YouTube](https://youtu.be/JUi4ATgFyyk)|SwiftUI, SceneKit, AVFoundation, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 36 | Awarded: 0
+##### Total: 37 | Awarded: 0
