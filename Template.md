@@ -1,10 +1,10 @@
-Name: Asia Ciafardini
-Status: Rejected
-ProjectTitle: Flux
-Technologies: SwiftUI, SwiftData, Metal, FoundationModels
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://github.com/splattydoesstuff/
-SourceUrl: https://github.com/splattydoesstuff/flux/
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
