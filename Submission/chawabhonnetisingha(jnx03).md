@@ -1,5 +1,5 @@
 Name: Chawabhon Netisingha (Jnx03)
-Status: Submitted
+Status: Distinguished
 ProjectTitle: Neuralia
 Technologies: SwiftUI , Foundation , AVKit , AVFoundation
 
