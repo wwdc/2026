@@ -1,5 +1,5 @@
 Name: Ralph Clavens Love Noel
-Status: Submitted
+Status: Rejected
 ProjectTitle: TransferTrack
 Technologies: SwiftUI, CoreML, VisionKit, MapKit
 AboutMeUrl: https://rnoel.dev/
