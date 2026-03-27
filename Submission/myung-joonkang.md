@@ -1,5 +1,5 @@
 Name: Myung-Joon Kang
-Status: Submitted
+Status: Rejected
 ProjectTitle: Duet
 Technologies: SwiftUI, Foundation Models Framework
 
