@@ -1,5 +1,5 @@
 Name: Tarun Abraham
-Status: Submitted
+Status: Rejected
 ProjectTitle: EpilEducate
 Technologies: SwiftUI, SpriteKit, UIKit
 
