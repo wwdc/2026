@@ -1,5 +1,5 @@
-Name: Erkhemtur
-Status: Submitted
+Name: Erkhemtur A
+Status: Rejected
 ProjectTitle: Shagai
 Technologies: SwiftUI, Vision, RealityKit, AVFoundation, AVSpeechSynthesizer, PDFKit
 
