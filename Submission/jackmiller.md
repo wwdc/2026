@@ -1,5 +1,5 @@
 Name: Jack Miller
-Status: Submitted
+Status: Winner
 ProjectTitle: Canopy
 Technologies: Foundation Models, SwiftUI, PencilKit
 
