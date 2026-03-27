@@ -39,6 +39,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Mahmoud Ait Ouaret](https://www.linkedin.com/in/mahmoud-ait-ouaret/)|-|[YouTube](https://youtu.be/jUqkdr4UWrc?si=0_y66v-I8Rn4p6Wk)|SwiftUI, Swift, MapKit, CoreHaptics|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Manpreet Singh](https://www.linkedin.com/in/manpreet-swe/)|[GitHub](https://github.com/Manpreet-Singh-Kamboj/swift-student-challenge-2026)|-|SwiftUI, SceneKit, UIKit, Combine|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |Max Hillyer|[GitHub](https://github.com/Max-Hillyer/swipes)|-|SwiftUI, CoreLocation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Mohamed Ali Boutaleb](https://www.linkedin.com/in/mohalibou)|[GitHub](https://github.com/mohalibou/StutterGuide)|-|SwiftUI, SwiftData, Charts, Speech|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Morris Richman](https://x.com/morrisinlife)|[GitHub](https://github.com/Mcrich23/Teddy)|-|AVFoundation, Speech, FoundationModels|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Mustafa TAVASLI](https://linkedin.com/in/mustafatavasli)|[GitHub](https://github.com/devmustafatavasli/SSC26-GoldenFlaws)|-|SwiftUI, PencilKit, AVFoundation, SwiftCharts|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Myung-Joon Kang](https://myungjoon.com/hello)|-|[Video](https://myungjoon.com/duet)|SwiftUI, Foundation Models Framework|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
@@ -56,4 +57,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Zineb Aourid](https://www.linkedin.com/in/zineb-aourid-6238021b6/)|[GitHub](https://github.com/zaourid1/MindBloom)|-|SwiftUI, Canvas API, CoreML|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |loveucifer|-|[YouTube](https://youtu.be/JUi4ATgFyyk)|SwiftUI, SceneKit, AVFoundation, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 38 | Awarded: 2
+##### Total: 39 | Awarded: 3

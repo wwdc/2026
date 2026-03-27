@@ -1,10 +1,10 @@
-Name: Mohamed Ali Boutaleb
-Status: Winner
-ProjectTitle: StutterGuide
-Technologies: SwiftUI, SwiftData, Charts, Speech, Foundation Models
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://www.linkedin.com/in/mohalibou
-SourceUrl: https://github.com/mohalibou/StutterGuide
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
