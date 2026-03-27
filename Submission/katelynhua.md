@@ -1,5 +1,5 @@
 Name: Katelyn Hua
-Status: Submitted
+Status: Rejected
 ProjectTitle: ActivTimer
 Technologies: SwiftUI, AVFoundation, CoreHaptics, SwiftData
 
