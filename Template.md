@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: ChiHoon Lee
+Status: Winner
+ProjectTitle: Unheard
+Technologies: SwiftUI, AVFoundation
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://www.linkedin.com/in/치훈-이-1a92103b8/
+SourceUrl: https://github.com/logichoon-redo/WWDC26-Swift-Student-Challenge
 VideoUrl:
 
 <!---
