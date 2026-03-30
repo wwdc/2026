@@ -1,11 +1,11 @@
-Name: Jason J. Lee
-Status: Winner
-ProjectTitle: BinaryWorld
-Technologies: SwiftUI, AVFoundation, Swift Concurrency, Accessibility
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://www.linkedin.com/in/json-lee
-SourceUrl: https://github.com/jsonpassion/BinaryWorld
-VideoUrl: N/A
+AboutMeUrl:
+SourceUrl:
+VideoUrl:
 
 <!---
 EXAMPLE
