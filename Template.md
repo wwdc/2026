@@ -1,10 +1,10 @@
-Name: Shoryakumar Mishra
-Status: Winner
-ProjectTitle: AXIS
-Technologies: SwiftUI, SwiftData, CoreMotion, AVFoundation
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://www.linkedin.com/in/shoryakumar-mishra/
-SourceUrl: https://github.com/shorya-mishra/AXIS
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
