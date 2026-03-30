@@ -4,7 +4,7 @@ ProjectTitle: AXIS
 Technologies: SwiftUI, SwiftData, CoreMotion, AVFoundation
 
 AboutMeUrl: https://www.linkedin.com/in/shoryakumar-mishra/
-SourceUrl: https://github.com/shorya-mishra/AXIS
+SourceUrl: https://github.com/Shoryamishra61/AXIS
 VideoUrl:
 
 <!---
