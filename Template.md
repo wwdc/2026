@@ -1,11 +1,11 @@
-Name: Immani Rama Venkata Sri Sai
-Status: Rejected
-ProjectTitle: GentleStep
-Technologies: SwiftUI, CoreHaptics
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://www.linkedin.com/in/sai-immani/
-SourceUrl: https://github.com/saiimmani/GentleStep.git
-VideoUrl: 
+AboutMeUrl:
+SourceUrl:
+VideoUrl:
 
 <!---
 EXAMPLE
