@@ -1,5 +1,5 @@
 Name: Arpit Garg
-Status: Submitted
+Status: Rejected
 ProjectTitle: PulseBit
 Technologies: SwiftUI, Foundation Models, HealthKit, Speech
 
