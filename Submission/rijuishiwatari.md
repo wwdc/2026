@@ -1,5 +1,5 @@
 Name: Riju Ishiwatari
-Status: Submitted
+Status: Winner
 ProjectTitle: AirCraft
 Technologies: SwiftUI, SceneKit, Foundation Models, PDFKit
 
