@@ -1,11 +1,11 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Evangelos Kampagiouklis
+Status: Winner
+ProjectTitle: BrainHow
+Technologies: SwiftUI, ARKit, SceneKit, Vision
 
-AboutMeUrl:
-SourceUrl:
-VideoUrl:
+AboutMeUrl: https://www.linkedin.com/in/evangelos-kampagiouklis-27676b247/
+SourceUrl: https://github.com/ekampagiouklis/BrainHow
+VideoUrl: 
 
 <!---
 EXAMPLE
