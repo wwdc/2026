@@ -36,6 +36,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Debasish Tripathy](https://github.com/Debasish7ripathy/)|[GitHub](https://github.com/Debasish7ripathy/StellaPaw)|[YouTube](https://youtu.be/7nahD7Mno7k)|SwiftUI, Charts, Combine, MVVM|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Dhruv Goswami](https://www.linkedin.com/in/Dhruv-Goswami-24-/)|[GitHub](https://github.com/DhruvGoswami10/SimPredict.git)|[YouTube](https://youtu.be/UkDhJrI0SS0)|SwiftUI, TipKit, CoreGraphics, All Algorithms implemented from scratch|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Erkhemtur A](https://www.linkedin.com/in/roaziy/)|[GitHub](https://github.com/roaziy/Shagai)|-|SwiftUI, Vision, RealityKit, AVFoundation|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
+|[Evangelos Kampagiouklis](https://www.linkedin.com/in/evangelos-kampagiouklis-27676b247/)|[GitHub](https://github.com/ekampagiouklis/BrainHow)|-|SwiftUI, ARKit, SceneKit, Vision|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Immani Rama Venkata Sri Sai](https://www.linkedin.com/in/sai-immani/)|[GitHub](https://github.com/saiimmani/GentleStep.git)|-|SwiftUI, CoreHaptics|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Jack Miller](https://jackmiller.dev/)|[GitHub](https://github.com/millerswiftdev/Canopy)|[Video](https://jackmiller.dev/apps/canopy)|Foundation Models, SwiftUI, PencilKit|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Jason J. Lee](https://www.linkedin.com/in/json-lee)|[GitHub](https://github.com/jsonpassion/BinaryWorld)|-|SwiftUI, AVFoundation, Swift Concurrency, Accessibility|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
@@ -64,4 +65,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Zineb Aourid](https://www.linkedin.com/in/zineb-aourid-6238021b6/)|[GitHub](https://github.com/zaourid1/MindBloom)|-|SwiftUI, Canvas API, CoreML|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |loveucifer|-|[YouTube](https://youtu.be/JUi4ATgFyyk)|SwiftUI, SceneKit, AVFoundation, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 46 | Awarded: 10
+##### Total: 47 | Awarded: 11
