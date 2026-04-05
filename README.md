@@ -61,9 +61,10 @@ If you would like to update your submission status please find your file in `Sub
 |[Tadashi Kumazawa](https://www.linkedin.com/in/tadashi-kumazawa-0a368421b/)|-|[YouTube](https://youtube.com/shorts/Z5PK819FaUw?feature=share)|SwiftUI, AVFoundation, Vision, CoreGraphics|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Tarun Abraham](https://www.linkedin.com/in/tarun-jacob-abraham)|[GitHub](https://github.com/Cookiesgobrr/EpilEducate)|-|SwiftUI, SpriteKit, UIKit|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Umar Salim](https://www.linkedin.com/in/umarsxlim/)|[GitHub](https://github.com/umarsxlim/Momentum---Apple-Swift-Student-Challenge-2026)|-|SwiftUI, SpriteKit, AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Vansh Nagpal](https://www.linkedin.com/in/vanshnagpal27/)|[GitHub](https://github.com/VanshNagpal10/Ping)|[YouTube](https://youtu.be/NZJTzFB5tx0?si=U7CdTKE2t5qQD2yu)|SwiftUI, SceneKit, AVFoundation, and UIKit.|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Yedil Pauyedin](https://www.instagram.com/ping._20)|[GitHub](https://github.com/Ping-2o/Nook)|-|UIKit, AVFoundation, SwiftUI, Foundation Models|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Youssef Ashraf](https://youssef-ashraf.lovable.app/)|[GitHub](https://github.com/yousseeefashrraf/LinguaMotus)|[YouTube](https://youtu.be/v4X_P9Uf6RU)|AVFoundation, Core ML, Vision, SWiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Zineb Aourid](https://www.linkedin.com/in/zineb-aourid-6238021b6/)|[GitHub](https://github.com/zaourid1/MindBloom)|-|SwiftUI, Canvas API, CoreML|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |loveucifer|-|[YouTube](https://youtu.be/JUi4ATgFyyk)|SwiftUI, SceneKit, AVFoundation, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 48 | Awarded: 12
+##### Total: 49 | Awarded: 13
