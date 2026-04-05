@@ -1,11 +1,11 @@
-Name: Ananya B
-Status: Distinguished
-ProjectTitle: Mandala Kala
-Technologies: SwiftUI, PencilKit, AVFoundation, Photos
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://www.linkedin.com/in/ananya-babuprasad/
-SourceUrl: https://github.com/ananyababuprasad/Mandala-Kala
-VideoUrl: -
+AboutMeUrl:
+SourceUrl:
+VideoUrl:
 
 <!---
 EXAMPLE
