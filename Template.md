@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Layza Carneiro
+Status: Winner
+ProjectTitle: SeAjeite
+Technologies: SwiftUI, Charts
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://layzacarneiro.github.io/
+SourceUrl: https://github.com/LayzaCarneiro/SeAjeite
 VideoUrl:
 
 <!---
