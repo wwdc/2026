@@ -45,6 +45,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Jason J. Lee](https://www.linkedin.com/in/json-lee)|[GitHub](https://github.com/jsonpassion/BinaryWorld)|-|SwiftUI, AVFoundation, Swift Concurrency, Accessibility|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Katelyn Hua](https://www.linkedin.com/in/katelyn-h-3198aa153/)|[GitHub](https://github.com/RUN-CMC49/ActivTimer/tree/main?tab=readme-ov-file)|[Video](https://www.linkedin.com/posts/katelyn-h-3198aa153_swiftstudentchallenge-swiftui-appledevelopment-activity-7434488331259895808-MWTC?utm_source=share&utm_medium=member_desktop&rcm=ACoAACT5P0UBqLhVav77auZrezOc-LaaUGi-XWE)|SwiftUI, AVFoundation, CoreHaptics, SwiftData|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Kateryna Simachova](https://www.linkedin.com/in/kateryna-simachova/)|[GitHub](https://github.com/drkat28/FactorDungeonPlayground)|-|Swift UI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Layza Carneiro](https://layzacarneiro.github.io/)|[GitHub](https://github.com/LayzaCarneiro/SeAjeite)|-|SwiftUI, Charts|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Mahmoud Ait Ouaret](https://www.linkedin.com/in/mahmoud-ait-ouaret/)|-|[YouTube](https://youtu.be/jUqkdr4UWrc?si=0_y66v-I8Rn4p6Wk)|SwiftUI, Swift, MapKit, CoreHaptics|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Manpreet Singh](https://www.linkedin.com/in/manpreet-swe/)|[GitHub](https://github.com/Manpreet-Singh-Kamboj/swift-student-challenge-2026)|-|SwiftUI, SceneKit, UIKit, Combine|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |Max Hillyer|[GitHub](https://github.com/Max-Hillyer/swipes)|-|SwiftUI, CoreLocation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -70,4 +71,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Zineb Aourid](https://www.linkedin.com/in/zineb-aourid-6238021b6/)|[GitHub](https://github.com/zaourid1/MindBloom)|-|SwiftUI, Canvas API, CoreML|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |loveucifer|-|[YouTube](https://youtu.be/JUi4ATgFyyk)|SwiftUI, SceneKit, AVFoundation, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 52 | Awarded: 15
+##### Total: 53 | Awarded: 16
