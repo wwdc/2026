@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Kateryna Simachova
+Status: Submitted
+ProjectTitle: Factor Dungeon
+Technologies: Swift UI
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://www.linkedin.com/in/kateryna-simachova/
+SourceUrl: https://github.com/drkat28/FactorDungeonPlayground
 VideoUrl:
 
 <!---
