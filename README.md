@@ -1,74 +1,78 @@
 # WWDC 2026 - Swift Student Challenge
-![WWDC2026 Logo](logo.png)
 
-List of student submissions for the WWDC 2026 - Swift Student Challenge.
+![WWDC 2026 Logo](logo.png)
+
+List of student submissions for the WWDC 2026 - Swift Student Challenge. The list is in alphabetical order.
 
 Check out the [YouTube Playlist](https://youtube.com/playlist?list=PL0GynU2GmYtTILlm8jBOn8KhasHyGQT8u&si=1OOsR4_xZsXgUc9f) to watch the projects.
 
 ### How to add your submission?
-1. [Click here](https://github.com/wwdc/2026/edit/main/Template.md) to fork this repository and edit the `Template.md` file.
-2. Fill out the document based on the example in the comment below.
-3. Make a new Pull Request and wait for the review.
+1. **[Click here to open the form](https://github.com/wwdc/2026/issues/new?template=submit.yml)** and fill it in.
+2. Send it. A bot checks your entry within a minute and tells you if anything needs fixing. You can edit the form after sending.
+3. When it is approved your entry appears on this list.
 
-#### How to update your submission?
-If you would like to update your submission status please find your file in `Submission` directory. Edit file, update status and create Pull Request.
+#### How to update or remove your submission?
+Use the **[update form](https://github.com/wwdc/2026/issues/new?template=update.yml)**. Only the person who sent the entry can change it.
 
 ### Submissions
 
-| Name | Source |    Video    | Technologies | Status |
-|-----:|:------:|:-----------:|:-------------|:------:|
-|[Aashin C Anil](https://www.linkedin.com/in/aashin-c-anil/)|[GitHub](https://github.com/Aashin20/IsItBroken)|-|SwiftUI, RealityKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Adriel de Souza](https://dsadriel.github.io/portfolio/)|[GitHub](https://github.com/dsadriel/WildSet.swiftpm)|-|SwiftUI, Drag and Drop API, AV Foundation, VoiceOver|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Ahmad Khaled Samim](https://github.com/itkhld1)|[GitHub](https://github.com/itkhld1/Zeytin-Swift/tree/main)|-|Swfit, SwiftUI, CoreMl|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
-|[Alessio Nossa](https://www.linkedin.com/in/alessionossa/)|[GitHub](https://github.com/alessionossa/opening-set)|[YouTube](https://youtu.be/EoO06qCLbIc)|SwiftUI, Metal|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Alessio Rubicini](https://alessiorubicini.github.io)|[GitHub](https://github.com/alessiorubicini/Ember)|-|SwiftUI, Foundation Models, CoreHaptics, TipKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Ali Ünal UZUNÇAYIR](https://www.linkedin.com/in/ali-unal-uzuncayir-a04546298/)|[GitHub](https://github.com/alyboii/Swift-Student-Challenge-2026-Submission-)|-|SwiftUI, SpriteKit, Foundation Models, SwiftData|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Ananya B](https://www.linkedin.com/in/ananya-babuprasad/)|[GitHub](https://github.com/ananyababuprasad/Mandala-Kala)|-|SwiftUI, PencilKit, AVFoundation, Photos|![Distinguished](https://img.shields.io/badge/distinguished-goldenrod?style=for-the-badge)|
-|[Anish Gurusankar](https://in.linkedin.com/in/anish-gurusankar)|[GitHub](https://github.com/Anish15AG)|-|SwiftUI, UIKit, AVFoundation, Swift Concurrency|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
-|[Ankush Rawat](https://www.linkedin.com/in/ankus4rawat/)|[GitHub](https://github.com/savetree-1/little-whys-swift)|[Video](https://drive.google.com/file/d/1V86qTu7tzqHuYTPEje3kFVgaiocR8IN6/view?usp=sharing)|SwiftUI, CoreHaptics, AVFoundation, Swift|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Ansh Mani Tripathi](https://portfolio.shadyggs.xyz)|[GitHub](https://github.com/anshggss/Meter-Logger)|-|SwiftUI, Foundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Aoi Ihara](https://vgnz93hs.com)|[GitHub](https://github.com/aoi-ihara/RC-Line-for-iOS)|[YouTube](https://youtu.be/-qb0sYJgwHg)|SwiftUI, Vision, AVFoundation|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
-|Arpit Garg|[GitHub](https://github.com/ArpitCS/Pulse-SSC-26)|-|SwiftUI, Foundation Models, HealthKit, Speech|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
-|[Asia Ciafardini](https://github.com/splattydoesstuff/)|[GitHub](https://github.com/splattydoesstuff/flux/)|-|SwiftUI, SwiftData, Metal, FoundationModels|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
-|[Asser Osama](https://www.linkedin.com/in/asserusama/)|-|[YouTube](https://youtu.be/_2VdMFefyyU?si=PKUoGHFqSlFBGOAT)|Foundation Models, Speech, Charts, SwiftData|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Ataberk Turan](https://ataberkturan.com)|[GitHub](https://github.com/ataberkturan/MentalEchoes)|-|SwiftUI, Foundation Models|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|Bryan Zhang|[GitHub](https://github.com/cyberbryanzhang/ThreatPulse)|-|SwiftUI,AVFoundation, Liquid Glass UI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Caio Agra Lemos](https://caioagralemos.com)|-|[Video](https://bit.ly/watchprojecthome)|Vision, Speech, CoreML, AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Chawabhon Netisingha (Jnx03)](https://jnx03.xyz)|[GitHub](https://github.com/JNX03/Neuralia/)|[YouTube](https://www.youtube.com/watch?v=EtrBb8nzsfI)|SwiftUI , Foundation , AVKit , AVFoundation|![Distinguished](https://img.shields.io/badge/distinguished-goldenrod?style=for-the-badge)|
-|[ChiHoon Lee](https://www.linkedin.com/in/%EC%B9%98%ED%9B%88-%EC%9D%B4-1a92103b8/)|[GitHub](https://github.com/logichoon-redo/WWDC26-Swift-Student-Challenge)|-|SwiftUI, AVFoundation|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
-|[Debasish Tripathy](https://github.com/Debasish7ripathy/)|[GitHub](https://github.com/Debasish7ripathy/StellaPaw)|[YouTube](https://youtu.be/7nahD7Mno7k)|SwiftUI, Charts, Combine, MVVM|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Dhruv Goswami](https://www.linkedin.com/in/Dhruv-Goswami-24-/)|[GitHub](https://github.com/DhruvGoswami10/SimPredict.git)|[YouTube](https://youtu.be/UkDhJrI0SS0)|SwiftUI, TipKit, CoreGraphics, All Algorithms implemented from scratch|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Erkhemtur A](https://www.linkedin.com/in/roaziy/)|[GitHub](https://github.com/roaziy/Shagai)|-|SwiftUI, Vision, RealityKit, AVFoundation|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
-|[Evangelos Kampagiouklis](https://www.linkedin.com/in/evangelos-kampagiouklis-27676b247/)|[GitHub](https://github.com/ekampagiouklis/BrainHow)|-|SwiftUI, ARKit, SceneKit, Vision|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
-|[Immani Rama Venkata Sri Sai](https://www.linkedin.com/in/sai-immani/)|[GitHub](https://github.com/saiimmani/GentleStep.git)|-|SwiftUI, CoreHaptics|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
-|[Jack Miller](https://jackmiller.dev/)|[GitHub](https://github.com/millerswiftdev/Canopy)|[Video](https://jackmiller.dev/apps/canopy)|Foundation Models, SwiftUI, PencilKit|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
-|[Jason J. Lee](https://www.linkedin.com/in/json-lee)|[GitHub](https://github.com/jsonpassion/BinaryWorld)|-|SwiftUI, AVFoundation, Swift Concurrency, Accessibility|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
-|[Katelyn Hua](https://www.linkedin.com/in/katelyn-h-3198aa153/)|[GitHub](https://github.com/RUN-CMC49/ActivTimer/tree/main?tab=readme-ov-file)|[Video](https://www.linkedin.com/posts/katelyn-h-3198aa153_swiftstudentchallenge-swiftui-appledevelopment-activity-7434488331259895808-MWTC?utm_source=share&utm_medium=member_desktop&rcm=ACoAACT5P0UBqLhVav77auZrezOc-LaaUGi-XWE)|SwiftUI, AVFoundation, CoreHaptics, SwiftData|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
-|[Kateryna Simachova](https://www.linkedin.com/in/kateryna-simachova/)|[GitHub](https://github.com/drkat28/FactorDungeonPlayground)|-|Swift UI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Layza Carneiro](https://layzacarneiro.github.io/)|[GitHub](https://github.com/LayzaCarneiro/SeAjeite)|-|SwiftUI, Charts|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
-|[Mahmoud Ait Ouaret](https://www.linkedin.com/in/mahmoud-ait-ouaret/)|-|[YouTube](https://youtu.be/jUqkdr4UWrc?si=0_y66v-I8Rn4p6Wk)|SwiftUI, Swift, MapKit, CoreHaptics|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Manpreet Singh](https://www.linkedin.com/in/manpreet-swe/)|[GitHub](https://github.com/Manpreet-Singh-Kamboj/swift-student-challenge-2026)|-|SwiftUI, SceneKit, UIKit, Combine|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|Max Hillyer|[GitHub](https://github.com/Max-Hillyer/swipes)|-|SwiftUI, CoreLocation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Mohamed Ali Boutaleb](https://www.linkedin.com/in/mohalibou)|[GitHub](https://github.com/mohalibou/StutterGuide)|-|SwiftUI, SwiftData, Charts, Speech|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
-|[Morris Richman](https://x.com/morrisinlife)|[GitHub](https://github.com/Mcrich23/Teddy)|-|AVFoundation, Speech, FoundationModels|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Mustafa TAVASLI](https://linkedin.com/in/mustafatavasli)|[GitHub](https://github.com/devmustafatavasli/SSC26-GoldenFlaws)|-|SwiftUI, PencilKit, AVFoundation, SwiftCharts|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Myung-Joon Kang](https://myungjoon.com/hello)|-|[Video](https://myungjoon.com/duet)|SwiftUI, Foundation Models Framework|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
-|[Nikunj Mathur](https://nikunjmathur.vercel.app/)|[GitHub](https://github.com/nikunjmathur08/)|-|SwiftUI , CoreML , Vision|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
-|Pattawee Sittirit|[GitHub](https://github.com/pzczp/liquidlogic)|-|SpriteKit, SceneKit, CoreMotion, AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Ralph Clavens Love Noel](https://rnoel.dev/)|[GitHub](https://github.com/GridGxly/TransferTrack)|-|SwiftUI, CoreML, VisionKit, MapKit|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
-|[Rehan Sanadi](https://www.linkedin.com/in/rehan-sanadi-559151366/)|[GitHub](https://github.com/Rehan0707/Solace)|[YouTube](https://youtu.be/E-scL0CIK-M?si=1XTwYKhQgw-jG4V6)|SwiftUI, AVFoundation, UIKit, Combine|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Riju Ishiwatari](https://www.linkedin.com/in/riju-ishiwatari-903852367)|[GitHub](https://github.com/acrostorn/AirCraft)|[YouTube](https://www.youtube.com/watch?v=8kHkH2OmEe8)|SwiftUI, SceneKit, Foundation Models, PDFKit|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
-|[Roman Zhuzhgov](https://t.me/mi11ione)|[GitHub](https://github.com/mi11ione/OrpheusSSC)|-|Metal, CoreAudio|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Saatvik Shashank Shrivastava](https://www.linkedin.com/in/saatvikss)|[GitHub](https://github.com/SaatvikSS/Tattva)|-|SwfitUI, Foundation, SwiftData, Haptics|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Sayan Lakhoua](https://x.com/sayan_lakhoua)|[GitHub](https://github.com/sayan-lakhoua/Allergyzz)|[Video](https://x.com/sayan_lakhoua/status/2036588634036642012)|SwiftUI, AVFoundation|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
-|[Shoryakumar Mishra](https://www.linkedin.com/in/shoryakumar-mishra/)|[GitHub](https://github.com/Shoryamishra61/AXIS)|-|SwiftUI, SwiftData, CoreMotion, AVFoundation|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
-|[Tadashi Kumazawa](https://www.linkedin.com/in/tadashi-kumazawa-0a368421b/)|-|[YouTube](https://youtube.com/shorts/Z5PK819FaUw?feature=share)|SwiftUI, AVFoundation, Vision, CoreGraphics|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Tarun Abraham](https://www.linkedin.com/in/tarun-jacob-abraham)|[GitHub](https://github.com/Cookiesgobrr/EpilEducate)|-|SwiftUI, SpriteKit, UIKit|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
-|[Umar Salim](https://www.linkedin.com/in/umarsxlim/)|[GitHub](https://github.com/umarsxlim/Momentum---Apple-Swift-Student-Challenge-2026)|-|SwiftUI, SpriteKit, AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Vansh Nagpal](https://www.linkedin.com/in/vanshnagpal27/)|[GitHub](https://github.com/VanshNagpal10/Ping)|[YouTube](https://youtu.be/NZJTzFB5tx0?si=U7CdTKE2t5qQD2yu)|SwiftUI, SceneKit, AVFoundation, and UIKit.|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
-|[Yedil Pauyedin](https://www.instagram.com/ping._20)|[GitHub](https://github.com/Ping-2o/Nook)|-|UIKit, AVFoundation, SwiftUI, Foundation Models|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Youssef Ashraf](https://youssef-ashraf.lovable.app/)|[GitHub](https://github.com/yousseeefashrraf/LinguaMotus)|[YouTube](https://youtu.be/v4X_P9Uf6RU)|AVFoundation, Core ML, Vision, SWiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Zineb Aourid](https://www.linkedin.com/in/zineb-aourid-6238021b6/)|[GitHub](https://github.com/zaourid1/MindBloom)|-|SwiftUI, Canvas API, CoreML|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|loveucifer|-|[YouTube](https://youtu.be/JUi4ATgFyyk)|SwiftUI, SceneKit, AVFoundation, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+| Participant | Links | Status |
+|:--|:--|:--|
+| [Aashin C Anil](https://www.linkedin.com/in/aashin-c-anil/)<br><sub>IsItBroken?</sub> | [GitHub](https://github.com/Aashin20/IsItBroken)<br><sub>SwiftUI, RealityKit</sub> | ⏳ Submitted |
+| [Adriel de Souza](https://dsadriel.github.io/portfolio/)<br><sub>WildSet</sub> | [GitHub](https://github.com/dsadriel/WildSet.swiftpm)<br><sub>SwiftUI, Drag and Drop API, AVFoundation, VoiceOver +2</sub> | ⏳ Submitted |
+| [Ahmad Khaled Samim](https://github.com/itkhld1)<br><sub>Zeytin</sub> | [GitHub](https://github.com/itkhld1/Zeytin-Swift/tree/main)<br><sub>Swfit, SwiftUI, CoreML</sub> | ⭐ Winner |
+| [Alessio Nossa](https://www.linkedin.com/in/alessionossa/)<br><sub>Opening Set</sub> | [GitHub](https://github.com/alessionossa/opening-set) · [Video](https://youtu.be/EoO06qCLbIc)<br><sub>SwiftUI, Metal</sub> | ⏳ Submitted |
+| [Alessio Rubicini](https://alessiorubicini.github.io)<br><sub>Ember</sub> | [GitHub](https://github.com/alessiorubicini/Ember)<br><sub>SwiftUI, Foundation Models, CoreHaptics, TipKit</sub> | ⏳ Submitted |
+| [Ali Ünal UZUNÇAYIR](https://www.linkedin.com/in/ali-unal-uzuncayir-a04546298/)<br><sub>Canteen Hero</sub> | [GitHub](https://github.com/alyboii/Swift-Student-Challenge-2026-Submission-)<br><sub>SwiftUI, SpriteKit, Foundation Models, SwiftData +1</sub> | ⏳ Submitted |
+| [Ananya B](https://www.linkedin.com/in/ananya-babuprasad/)<br><sub>Mandala Kala</sub> | [GitHub](https://github.com/ananyababuprasad/Mandala-Kala)<br><sub>SwiftUI, PencilKit, AVFoundation, Photos</sub> | 🏆 Distinguished |
+| [Anish Gurusankar](https://in.linkedin.com/in/anish-gurusankar)<br><sub>Brailly</sub> | [GitHub](https://github.com/Anish15AG)<br><sub>SwiftUI, UIKit, AVFoundation, Swift Concurrency +3</sub> | ⭐ Winner |
+| [Ankush Rawat](https://www.linkedin.com/in/ankus4rawat/)<br><sub>Little Why's</sub> | [GitHub](https://github.com/savetree-1/little-whys-swift) · [Video](https://drive.google.com/file/d/1V86qTu7tzqHuYTPEje3kFVgaiocR8IN6/view?usp=sharing)<br><sub>SwiftUI, CoreHaptics, AVFoundation, Swift</sub> | ⏳ Submitted |
+| [Ansh Mani Tripathi](https://portfolio.shadyggs.xyz)<br><sub>Meter Logger</sub> | [GitHub](https://github.com/anshggss/Meter-Logger)<br><sub>SwiftUI, Foundation</sub> | ⏳ Submitted |
+| [Aoi Ihara](https://vgnz93hs.com)<br><sub>RC Line</sub> | [GitHub](https://github.com/aoi-ihara/RC-Line-for-iOS) · [Video](https://youtu.be/-qb0sYJgwHg)<br><sub>SwiftUI, Vision, AVFoundation</sub> | ⭐ Winner |
+| [Arpit Garg](https://www.linkedin.com/in/arpit-garg-cs)<br><sub>PulseBit</sub> | [GitHub](https://github.com/ArpitCS/Pulse-SSC-26)<br><sub>SwiftUI, Foundation Models, HealthKit, Speech</sub> | ❌ Rejected |
+| [Asia Ciafardini](https://github.com/splattydoesstuff/)<br><sub>Flux</sub> | [GitHub](https://github.com/splattydoesstuff/flux/)<br><sub>SwiftUI, SwiftData, Metal, FoundationModels</sub> | ❌ Rejected |
+| [Asser Osama](https://www.linkedin.com/in/asserusama/)<br><sub>Stash</sub> | [Video](https://youtu.be/_2VdMFefyyU?si=PKUoGHFqSlFBGOAT)<br><sub>Foundation Models, Speech, Charts, SwiftData</sub> | ⏳ Submitted |
+| [Ataberk Turan](https://ataberkturan.com)<br><sub>Mental Echoes</sub> | [GitHub](https://github.com/ataberkturan/MentalEchoes)<br><sub>SwiftUI, Foundation Models</sub> | ⏳ Submitted |
+| [Bryan Zhang](https://www.linkedin.com/in/bryanzdy)<br><sub>ThreatPulse</sub> | [GitHub](https://github.com/cyberbryanzhang/ThreatPulse)<br><sub>SwiftUI, AVFoundation, Liquid Glass UI</sub> | ⏳ Submitted |
+| [Caio Agra Lemos](https://caioagralemos.com)<br><sub>Project Home</sub> | [Video](https://bit.ly/watchprojecthome)<br><sub>Vision, Speech, CoreML, AVFoundation</sub> | ⏳ Submitted |
+| [Chawabhon Netisingha (Jnx03)](https://jnx03.xyz)<br><sub>Neuralia</sub> | [GitHub](https://github.com/JNX03/Neuralia/) · [Video](https://www.youtube.com/watch?v=EtrBb8nzsfI)<br><sub>SwiftUI, Foundation, AVKit, AVFoundation</sub> | 🏆 Distinguished |
+| [ChiHoon Lee](https://www.linkedin.com/in/%EC%B9%98%ED%9B%88-%EC%9D%B4-1a92103b8/)<br><sub>Unheard</sub> | [GitHub](https://github.com/logichoon-redo/WWDC26-Swift-Student-Challenge)<br><sub>SwiftUI, AVFoundation</sub> | ⭐ Winner |
+| [Debasish Tripathy](https://github.com/Debasish7ripathy/)<br><sub>StellaPaw</sub> | [GitHub](https://github.com/Debasish7ripathy/StellaPaw) · [Video](https://youtu.be/7nahD7Mno7k)<br><sub>SwiftUI, Charts, Combine, MVVM</sub> | ⏳ Submitted |
+| [Dhruv Goswami](https://www.linkedin.com/in/Dhruv-Goswami-24-/)<br><sub>SimPredict</sub> | [GitHub](https://github.com/DhruvGoswami10/SimPredict.git) · [Video](https://youtu.be/UkDhJrI0SS0)<br><sub>SwiftUI, TipKit, CoreGraphics, All Algorithms implemented from scratch +1</sub> | ⏳ Submitted |
+| [Erkhemtur A](https://www.linkedin.com/in/roaziy/)<br><sub>Shagai</sub> | [GitHub](https://github.com/roaziy/Shagai)<br><sub>SwiftUI, Vision, RealityKit, AVFoundation +2</sub> | ❌ Rejected |
+| [Evangelos Kampagiouklis](https://www.linkedin.com/in/evangelos-kampagiouklis-27676b247/)<br><sub>BrainHow</sub> | [GitHub](https://github.com/ekampagiouklis/BrainHow)<br><sub>SwiftUI, ARKit, SceneKit, Vision</sub> | ⭐ Winner |
+| [Houssam Abdoul Wahab](https://github.com/HoussamAW)<br><sub>LUME</sub> | <sub>SwiftUI, AVFoundation</sub> | ⏳ Submitted |
+| [Immani Rama Venkata Sri Sai](https://www.linkedin.com/in/sai-immani/)<br><sub>GentleStep</sub> | [GitHub](https://github.com/saiimmani/GentleStep.git)<br><sub>SwiftUI, CoreHaptics</sub> | ❌ Rejected |
+| [Jack Miller](https://jackmiller.dev/)<br><sub>Canopy</sub> | [GitHub](https://github.com/millerswiftdev/Canopy) · [Video](https://jackmiller.dev/apps/canopy)<br><sub>Foundation Models, SwiftUI, PencilKit</sub> | ⭐ Winner |
+| [Jason J. Lee](https://www.linkedin.com/in/json-lee)<br><sub>BinaryWorld</sub> | [GitHub](https://github.com/jsonpassion/BinaryWorld)<br><sub>SwiftUI, AVFoundation, Swift Concurrency, Accessibility</sub> | ⭐ Winner |
+| [Jiaxu Li](https://jiaxuli.com)<br><sub>PodcastIntelligent</sub> | <sub>SwiftUI, FoundationModels, ImagePlayground, AVFoundation +6</sub> | ⭐ Winner |
+| [Katelyn Hua](https://www.linkedin.com/in/katelyn-h-3198aa153/)<br><sub>ActivTimer</sub> | [GitHub](https://github.com/RUN-CMC49/ActivTimer/tree/main?tab=readme-ov-file) · [Video](https://www.linkedin.com/posts/katelyn-h-3198aa153_swiftstudentchallenge-swiftui-appledevelopment-activity-7434488331259895808-MWTC?utm_source=share&utm_medium=member_desktop&rcm=ACoAACT5P0UBqLhVav77auZrezOc-LaaUGi-XWE)<br><sub>SwiftUI, AVFoundation, CoreHaptics, SwiftData</sub> | ❌ Rejected |
+| [Kateryna Simachova](https://www.linkedin.com/in/kateryna-simachova/)<br><sub>Factor Dungeon</sub> | [GitHub](https://github.com/drkat28/FactorDungeonPlayground)<br><sub>SwiftUI</sub> | ⏳ Submitted |
+| [Layza Carneiro](https://layzacarneiro.github.io/)<br><sub>SeAjeite</sub> | [GitHub](https://github.com/LayzaCarneiro/SeAjeite)<br><sub>SwiftUI, Charts</sub> | ⭐ Winner |
+| [loveucifer](https://www.github.com/loveucifer)<br><sub>Faraday</sub> | [Video](https://youtu.be/JUi4ATgFyyk)<br><sub>SwiftUI, SceneKit, AVFoundation, UIKit</sub> | ⏳ Submitted |
+| [Mahmoud Ait Ouaret](https://www.linkedin.com/in/mahmoud-ait-ouaret/)<br><sub>VibeShip</sub> | [Video](https://youtu.be/jUqkdr4UWrc?si=0_y66v-I8Rn4p6Wk)<br><sub>SwiftUI, Swift, MapKit, CoreHaptics +1</sub> | ⏳ Submitted |
+| [Manpreet Singh](https://www.linkedin.com/in/manpreet-swe/)<br><sub>Algo Space</sub> | [GitHub](https://github.com/Manpreet-Singh-Kamboj/swift-student-challenge-2026)<br><sub>SwiftUI, SceneKit, UIKit, Combine</sub> | ⏳ Submitted |
+| Max Hillyer<br><sub>Swipes</sub> | [GitHub](https://github.com/Max-Hillyer/swipes)<br><sub>SwiftUI, CoreLocation</sub> | ⏳ Submitted |
+| [Mohamed Ali Boutaleb](https://www.linkedin.com/in/mohalibou)<br><sub>StutterGuide</sub> | [GitHub](https://github.com/mohalibou/StutterGuide)<br><sub>SwiftUI, SwiftData, Charts, Speech +1</sub> | ⭐ Winner |
+| [Morris Richman](https://x.com/morrisinlife)<br><sub>Teddy</sub> | [GitHub](https://github.com/Mcrich23/Teddy)<br><sub>AVFoundation, Speech, FoundationModels</sub> | ⏳ Submitted |
+| [Mustafa TAVASLI](https://linkedin.com/in/mustafatavasli)<br><sub>Golden Flaws</sub> | [GitHub](https://github.com/devmustafatavasli/SSC26-GoldenFlaws)<br><sub>SwiftUI, PencilKit, AVFoundation, Swift Charts</sub> | ⏳ Submitted |
+| [Myung-Joon Kang](https://myungjoon.com/hello)<br><sub>Duet</sub> | [Video](https://myungjoon.com/duet)<br><sub>SwiftUI, Foundation Models Framework</sub> | ❌ Rejected |
+| [Nikunj Mathur](https://nikunjmathur.vercel.app/)<br><sub>Signie</sub> | [GitHub](https://github.com/nikunjmathur08/)<br><sub>SwiftUI, CoreML, Vision</sub> | ⭐ Winner |
+| Pattawee Sittirit<br><sub>Liquid Logic</sub> | [GitHub](https://github.com/pzczp/liquidlogic)<br><sub>SpriteKit, SceneKit, CoreMotion, AVFoundation</sub> | ⏳ Submitted |
+| [Ralph Clavens Love Noel](https://rnoel.dev/)<br><sub>TransferTrack</sub> | [GitHub](https://github.com/GridGxly/TransferTrack)<br><sub>SwiftUI, CoreML, VisionKit, MapKit</sub> | ❌ Rejected |
+| [Rehan Sanadi](https://www.linkedin.com/in/rehan-sanadi-559151366/)<br><sub>Solace</sub> | [GitHub](https://github.com/Rehan0707/Solace) · [Video](https://youtu.be/E-scL0CIK-M?si=1XTwYKhQgw-jG4V6)<br><sub>SwiftUI, AVFoundation, UIKit, Combine</sub> | ⏳ Submitted |
+| [Riju Ishiwatari](https://www.linkedin.com/in/riju-ishiwatari-903852367)<br><sub>AirCraft</sub> | [GitHub](https://github.com/acrostorn/AirCraft) · [Video](https://www.youtube.com/watch?v=8kHkH2OmEe8)<br><sub>SwiftUI, SceneKit, Foundation Models, PDFKit</sub> | ⭐ Winner |
+| [Roman Zhuzhgov](https://t.me/mi11ione)<br><sub>Orpheus</sub> | [GitHub](https://github.com/mi11ione/OrpheusSSC)<br><sub>Metal, CoreAudio</sub> | ⏳ Submitted |
+| [Saatvik Shashank Shrivastava](https://www.linkedin.com/in/saatvikss)<br><sub>Tattva</sub> | [GitHub](https://github.com/SaatvikSS/Tattva)<br><sub>SwfitUI, Foundation, SwiftData, Haptics</sub> | ⏳ Submitted |
+| [Sayan Lakhoua](https://x.com/sayan_lakhoua)<br><sub>Allergyzz</sub> | [GitHub](https://github.com/sayan-lakhoua/Allergyzz) · [Video](https://x.com/sayan_lakhoua/status/2036588634036642012)<br><sub>SwiftUI, AVFoundation</sub> | ⭐ Winner |
+| [Shoryakumar Mishra](https://www.linkedin.com/in/shoryakumar-mishra/)<br><sub>AXIS</sub> | [GitHub](https://github.com/Shoryamishra61/AXIS)<br><sub>SwiftUI, SwiftData, CoreMotion, AVFoundation</sub> | ⭐ Winner |
+| [Tadashi Kumazawa](https://www.linkedin.com/in/tadashi-kumazawa-0a368421b/)<br><sub>SignBeat</sub> | [Video](https://youtube.com/shorts/Z5PK819FaUw?feature=share)<br><sub>SwiftUI, AVFoundation, Vision, CoreGraphics</sub> | ⏳ Submitted |
+| [Tarun Abraham](https://www.linkedin.com/in/tarun-jacob-abraham)<br><sub>EpilEducate</sub> | [GitHub](https://github.com/Cookiesgobrr/EpilEducate)<br><sub>SwiftUI, SpriteKit, UIKit</sub> | ❌ Rejected |
+| [Umar Salim](https://www.linkedin.com/in/umarsxlim/)<br><sub>Momentum</sub> | [GitHub](https://github.com/umarsxlim/Momentum---Apple-Swift-Student-Challenge-2026)<br><sub>SwiftUI, SpriteKit, AVFoundation</sub> | ⏳ Submitted |
+| [Vansh Nagpal](https://www.linkedin.com/in/vanshnagpal27/)<br><sub>Ping</sub> | [GitHub](https://github.com/VanshNagpal10/Ping) · [Video](https://youtu.be/NZJTzFB5tx0?si=U7CdTKE2t5qQD2yu)<br><sub>SwiftUI, SceneKit, AVFoundation, and UIKit</sub> | ⭐ Winner |
+| [Yedil Pauyedin](https://www.instagram.com/ping._20)<br><sub>Nook</sub> | [GitHub](https://github.com/Ping-2o/Nook)<br><sub>UIKit, AVFoundation, SwiftUI, Foundation Models</sub> | ⏳ Submitted |
+| [Youssef Ashraf](https://youssef-ashraf.lovable.app/)<br><sub>Lingua Motus</sub> | [GitHub](https://github.com/yousseeefashrraf/LinguaMotus) · [Video](https://youtu.be/v4X_P9Uf6RU)<br><sub>AVFoundation, CoreML, Vision, SwiftUI</sub> | ⏳ Submitted |
+| [YuJia Liang](https://yujialiang.com)<br><sub>RiffNode</sub> | [GitHub](https://github.com/RiffNode/riffnode-wwdc2026)<br><sub>SwiftUI, AVFoundation, Vision, FoundationModels</sub> | ⭐ Winner |
+| [Zineb Aourid](https://www.linkedin.com/in/zineb-aourid-6238021b6/)<br><sub>MindBloom</sub> | [GitHub](https://github.com/zaourid1/MindBloom)<br><sub>SwiftUI, Canvas API, CoreML</sub> | ⏳ Submitted |
 
-##### Total: 53 | Awarded: 16
+##### Total: 56 | Awarded: 18
