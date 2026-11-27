@@ -16,7 +16,7 @@ Use the **[update form](https://github.com/wwdc/2026/issues/new?template=update.
 
 ### Submissions
 
-| Participant | Links<br><img src="assets/spacer.svg" width="2000" height="1" alt=""> | Status<br>               |
+| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status<br>               |
 |:--|:--|:--|
 | [Aashin C Anil](https://www.linkedin.com/in/aashin-c-anil/)<br><sub>IsItBroken?</sub> | [GitHub](https://github.com/Aashin20/IsItBroken)<br><sub>SwiftUI, RealityKit</sub> | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
 | [Adriel de Souza](https://dsadriel.github.io/portfolio/)<br><sub>WildSet</sub> | [GitHub](https://github.com/dsadriel/WildSet.swiftpm)<br><sub>SwiftUI, Drag and Drop API, AVFoundation, VoiceOver +2</sub> | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
